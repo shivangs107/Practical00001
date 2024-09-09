@@ -1,4 +1,3 @@
 # Practical00001
 Making Five Repository
-This the trial of first branch
-This is Second Edit
+Branch 2 edit 2
